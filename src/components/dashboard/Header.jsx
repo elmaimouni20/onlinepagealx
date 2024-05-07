@@ -48,11 +48,11 @@ export default function Header({className}) {
                         <Tooltip >
                             <TooltipTrigger>
                                 <h4 className='text-lg font-semibold max-w-[187px]' >
-                                    Salaheddine laatarsi
+                                    Salma Elmamouni
                                 </h4>
                             </TooltipTrigger>
                             <TooltipContent>
-                            <p>Salaheddine laatarsi</p>
+                            <p>Salma Elmamouni</p>
                             </TooltipContent>
                         </Tooltip>
                     </TooltipProvider>
